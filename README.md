@@ -17,7 +17,7 @@ The chapters are:
     - Paired Wilcoxon test
     - Transformations to Normality
     - McNemar's Test
-    - Fisher's Exact Test
+    - Fisher's Exact Test - Sandra
     - Chi-Square Goodness of Fit
     - Permutation Tests
 3. Two-Sample Tests  
